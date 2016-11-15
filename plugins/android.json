@@ -1,0 +1,70 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.jcjee.plugins.emailcomposer": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "com.telerik.plugins.nativepagetransitions": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-apprate": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-screen-orientation": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "de.appplant.cordova.plugin.local-notification": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-admob": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-app-event": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        },
+        "cordova-admobsdk": {
+            "PACKAGE_NAME": "com.bryanlopez.mySpeed"
+        }
+    }
+}
