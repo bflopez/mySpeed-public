@@ -1,5 +1,7 @@
 # mySpeed-public
 
+A simple speedometer app made in AngularJS/Ionic/Cordova
+
 ## www/js/app.js
 
 ```
