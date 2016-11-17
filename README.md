@@ -1,6 +1,6 @@
 # mySpeed-public
 
-### www/js/app.js
+## www/js/app.js
 
 ```
 angular.module('starter.controllers', [])
@@ -224,7 +224,7 @@ angular.module('starter.controllers', [])
   });
 ```
 
-### /www/js/controller.js
+## /www/js/controller.js
 
 ```
 angular.module('starter.controllers', [])
